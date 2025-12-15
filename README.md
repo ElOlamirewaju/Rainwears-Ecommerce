@@ -19,6 +19,24 @@ Rainwears is a premium rain gear ecommerce store specializing in jackets, shells
 - 📱 **Fully Responsive** - Works seamlessly on all devices
 - ♿ **Accessible** - Focus states, keyboard navigation, ARIA labels
 
+## 🖼️ Screenshots
+
+### Home Page
+![Home Page](https://github.com/ElOlamirewaju/Rainwears-Ecommerce/tree/main/public/screenshot/home.png)
+
+### Product Grid
+![Shop Page](https://github.com/ElOlamirewaju/Rainwears-Ecommerce/tree/main/public/screenshot/shop.png)
+
+### Product Detail
+![Product Detail](https://github.com/ElOlamirewaju/Rainwears-Ecommerce/tree/main/public/screenshot/product-detail.png)
+
+### Shopping Cart
+![Cart](https://github.com/ElOlamirewaju/Rainwears-Ecommerce/tree/main/public/screenshot/cart.png)
+
+### Checkout
+![Checkout](https://github.com/ElOlamirewaju/Rainwears-Ecommerce/tree/main/public/screenshot/checkout.png)
+
+
 ### E-Commerce Features
 - 🛍️ **Product Catalog** - 6 premium rain gear products with detailed specs
 - 🛒 **Shopping Cart** - Slide-out drawer (Apple-like) and dedicated cart page
